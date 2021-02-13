@@ -1,2 +1,3 @@
-# englishDictionary
-Django app that returns meaning, synonyms and antonyms of a given word
+"""
+Django App that searchs the meaning, synonyms, antonyms from a given word
+"""
